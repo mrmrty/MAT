@@ -2,7 +2,7 @@
 
 This repository serves as a **dynamic bridge** for the MAT Server (Ankara Node). Since the server uses temporary tunneling for secure access, this page automatically redirects you to the live instance.
 
-### 🛠️ Technical Specs
+### Technical Specs
 - **Engine:** Cloudflare Zero Trust Tunneling
 - **Automation:** Custom Bash Scripts (MAT-Core)
 - **Deployment:** GitHub Pages Redirect
